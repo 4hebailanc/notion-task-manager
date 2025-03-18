@@ -1,0 +1,3 @@
+"""
+Notion GitHub Sync package.
+""" 

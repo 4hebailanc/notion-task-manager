@@ -1,0 +1,140 @@
+{
+    "tasks": [
+        {
+            "title": "项目规划和需求分析",
+            "status": "Not Started",
+            "priority": "High",
+            "due": "2025-03-20",
+            "tags": ["Planning", "Analysis"],
+            "pathin_projects": ["WebPage"]
+        },
+        {
+            "title": "设计网站架构和技术栈选择",
+            "status": "Not Started",
+            "priority": "High",
+            "due": "2025-03-22",
+            "tags": ["Architecture", "Technical"],
+            "pathin_projects": ["WebPage"]
+        },
+        {
+            "title": "创建项目仓库和开发环境配置",
+            "status": "Not Started",
+            "priority": "High",
+            "due": "2025-03-23",
+            "tags": ["Setup", "Development"],
+            "pathin_projects": ["WebPage"]
+        },
+        {
+            "title": "设计数据库架构",
+            "status": "Not Started",
+            "priority": "High",
+            "due": "2025-03-24",
+            "tags": ["Database", "Architecture"],
+            "pathin_projects": ["WebPage"]
+        },
+        {
+            "title": "设计用户界面原型",
+            "status": "Not Started",
+            "priority": "High",
+            "due": "2025-03-26",
+            "tags": ["UI/UX", "Design"],
+            "pathin_projects": ["WebPage"]
+        },
+        {
+            "title": "开发核心功能模块",
+            "status": "Not Started",
+            "priority": "High",
+            "due": "2025-04-02",
+            "tags": ["Development", "Core"],
+            "pathin_projects": ["WebPage"]
+        },
+        {
+            "title": "实现数据库模型和API",
+            "status": "Not Started",
+            "priority": "High",
+            "due": "2025-04-05",
+            "tags": ["Database", "API"],
+            "pathin_projects": ["WebPage"]
+        },
+        {
+            "title": "开发前端界面组件",
+            "status": "Not Started",
+            "priority": "High",
+            "due": "2025-04-08",
+            "tags": ["Frontend", "UI/UX"],
+            "pathin_projects": ["WebPage"]
+        },
+        {
+            "title": "实现响应式设计",
+            "status": "Not Started",
+            "priority": "Medium",
+            "due": "2025-04-10",
+            "tags": ["Frontend", "Responsive"],
+            "pathin_projects": ["WebPage"]
+        },
+        {
+            "title": "编写单元测试",
+            "status": "Not Started",
+            "priority": "Medium",
+            "due": "2025-04-12",
+            "tags": ["Testing", "Quality"],
+            "pathin_projects": ["WebPage"]
+        },
+        {
+            "title": "进行性能优化",
+            "status": "Not Started",
+            "priority": "Medium",
+            "due": "2025-04-14",
+            "tags": ["Performance", "Optimization"],
+            "pathin_projects": ["WebPage"]
+        },
+        {
+            "title": "进行安全审计",
+            "status": "Not Started",
+            "priority": "High",
+            "due": "2025-04-16",
+            "tags": ["Security", "Audit"],
+            "pathin_projects": ["WebPage"]
+        },
+        {
+            "title": "进行用户测试和反馈收集",
+            "status": "Not Started",
+            "priority": "Medium",
+            "due": "2025-04-18",
+            "tags": ["Testing", "User Feedback"],
+            "pathin_projects": ["WebPage"]
+        },
+        {
+            "title": "修复bug和优化用户体验",
+            "status": "Not Started",
+            "priority": "High",
+            "due": "2025-04-20",
+            "tags": ["Bug Fix", "UX"],
+            "pathin_projects": ["WebPage"]
+        },
+        {
+            "title": "准备部署文档",
+            "status": "Not Started",
+            "priority": "Medium",
+            "due": "2025-04-22",
+            "tags": ["Documentation", "Deployment"],
+            "pathin_projects": ["WebPage"]
+        },
+        {
+            "title": "部署到生产环境",
+            "status": "Not Started",
+            "priority": "High",
+            "due": "2025-04-24",
+            "tags": ["Deployment", "Production"],
+            "pathin_projects": ["WebPage"]
+        },
+        {
+            "title": "进行上线后的监控和优化",
+            "status": "Not Started",
+            "priority": "Medium",
+            "due": "2025-04-26",
+            "tags": ["Monitoring", "Optimization"],
+            "pathin_projects": ["WebPage"]
+        }
+    ]
+} 
